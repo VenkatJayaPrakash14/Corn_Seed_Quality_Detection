@@ -1,0 +1,5 @@
+,image_file,confidence,confidence,confidence
+,count,mean,min,max
+class,,,,
+Bad-Seed,59,0.899,0.736,0.942
+Good-Seed,68,0.917,0.398,0.949
